@@ -151,3 +151,4 @@ public class GameEngineTest {
         GuessResult result = engine.makeGuess(55);
         assertFalse(result.getHint().isEmpty());
     }
+}
